@@ -31,8 +31,6 @@ env/
 # Logs
 *.log
 
-# GitHub Actions
-.github/workflows/
 
 # Byte-compiled / optimized / DLL files
 *.py[cod]
