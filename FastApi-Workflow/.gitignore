@@ -1,0 +1,44 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+*.pyd
+*.pyo
+*.pyc
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# macOS
+.DS_Store
+
+# pytest
+.pytest_cache/
+.idea/
+.vscode/
+
+# Pycharm project
+.idea/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# GitHub Actions
+.github/workflows/
+
+# Byte-compiled / optimized / DLL files
+*.py[cod]
+*$py.class
+*.so
+
+# Distribution / packaging
+.Python
+*.lock
